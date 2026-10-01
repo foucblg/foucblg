@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Foucauld 👋
 
-<!--
-**foucblg/foucblg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CentraleSupélec — Entrepreneurship track  
 
-Here are some ideas to get you started:
+🤖 AI & Cybersecurity Engineer  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Building tools that make people's lives easier
+
+## 🚀 What I'm working on
+
+- 🏢 **Wonka AI** — AI agents and automated workflows
+
+- 🔐 **Cybersecurity** — secure systems and AI
+
+- 📱 **Proxima** — tools for student associations
+
+- 🧠 Exploring AI, entrepreneurship and European tech
+
+## 🛠️ Tech
+
+`Python` `TypeScript` `React` `Node.js` `C++` `Docker` `Kubernetes` `Azure`
+
+## 📫 Contact
+
+[LinkedIn](...) · [Email](...)
