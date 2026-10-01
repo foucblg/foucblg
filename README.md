@@ -12,7 +12,7 @@
 
 - 🔐 **Cybersecurity** — secure systems and AI
 
-- 📱 **Proxima** — tools for student associations
+- 📱 **ProximApp** — tools for student associations
 
 - 🧠 Exploring AI, entrepreneurship and European tech
 
