@@ -22,4 +22,4 @@
 
 ## 📫 Contact
 
-[LinkedIn](www.linkedin.com/in/foucauld-bellanger-49372229a) · [Email](mailto:foucauld.bellanger@student-cs.fr)
+[LinkedIn](https://www.linkedin.com/in/foucauld-bellanger-49372229a) · [Email](mailto:foucauld.bellanger@student-cs.fr)
